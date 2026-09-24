@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/axquora-logo-dark.png" alt="Axquora Technologies" width="420">
+  <img src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/axquora-logo-light.png" alt="Axquora Technologies" width="420">
 </p>
 
 <p align="center">
