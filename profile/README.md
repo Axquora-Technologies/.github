@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/assets/axquora-logo-dark.png" alt="Axquora Technologies" width="420">
+  <img src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/axquora-logo-dark.png" alt="Axquora Technologies" width="420">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-We build systems we'd be willing to carry the pager for — software engineering, cloud infrastructure, cybersecurity and IT consulting for businesses that need technology to hold up in production, not just in a demo.
+We build systems we'd be willing to carry the pager for — software engineering, cloud infrastructure, cybersecurity and IT consulting for businesses that need technology to hold up in production, not just look good in a slide deck.
 
 ## What we do
 
