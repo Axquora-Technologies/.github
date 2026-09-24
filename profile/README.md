@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/axquora-logo-light.png" alt="Axquora Technologies" width="460">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/axquora-logo-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/axquora-logo-dark.png">
+    <img src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/axquora-logo-dark.png" alt="Axquora Technologies" width="460">
+  </picture>
 </p>
 
 <p align="center">
@@ -19,10 +23,9 @@
 </p>
 
 ---
-
 ## Who we are
 
-We build dependable digital systems for businesses that need technology to hold up in production. From a first technical roadmap to cloud operations and ongoing support, we combine practical engineering with thoughtful consulting to turn complex challenges into sustainable solutions.
+We build dependable digital systems for businesses that need technology to hold up in production. From a first technical roadmap to cloud operations and ongoing support, we combine practical engineering with clear communication.
 
 > **We build systems we'd be willing to carry the pager for.**
 
