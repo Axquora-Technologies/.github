@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/assets/axquora-logo-light.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/assets/axquora-logo-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/axquora-logo-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/axquora-logo-dark.png">
     <img alt="Axquora Technologies" src="https://raw.githubusercontent.com/Axquora-Technologies/.github/main/profile/assets/axquora-logo-dark.png" width="420">
   </picture>
 </p>
