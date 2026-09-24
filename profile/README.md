@@ -75,12 +75,6 @@ We build dependable digital systems for businesses that need technology to hold 
 
 Have a product to launch, a system to modernize or infrastructure that needs a stronger foundation? We'd love to hear what you're working on.
 
-<p align="center">
-  <a href="https://axquora.com"><strong>Visit axquora.com →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/company/axquora">Connect on LinkedIn</a>
-</p>
-
 ---
 
 <p align="center"><i>We're building our open-source presence here. Public repositories are on the way.</i></p>
